@@ -1,0 +1,33 @@
+.container {
+    text-align:center ;
+    border:1px solid #FDEDEC;
+    margin:0 auto;
+    width:600px;
+    background-color:#FDEDEC;
+}
+table {
+    text-align:center ;
+    width: 500px;
+    height: 100%;
+    margin-top:20px;
+    margin-bottom:100px;
+
+}
+textarea {
+    margin-top:100px;
+}
+td input {
+    background-color: #E47287 ;
+    color: white;
+    width: 100%;
+    height: 60px;
+    border-radius:12px;
+    font-size:24px;
+    transition-duration: 0.4s;
+}
+td input:hover{
+    opacity:0.8;
+}
+td {
+    margin-right:0px;
+}
